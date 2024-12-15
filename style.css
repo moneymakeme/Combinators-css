@@ -1,0 +1,9 @@
+body{
+    font-size: 22px;
+}
+div ~/*General  Sibling selector*/
+ p{
+    background-color: aquamarine;
+    color:navajowhite;
+}
+
